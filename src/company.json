@@ -1,0 +1,16 @@
+{
+    "companys": [
+        {
+            "name":  "Nome da empresa 1",
+            "numberOfEmployees": 10,
+            "country": "Brasil",
+            "category": "Setor de tecnologia"
+        },
+        {
+            "name":  "Nome da empresa 2",
+            "numberOfEmployees": 50,
+            "country": "Brasil",
+            "category": "Setor agrícula"
+        }
+    ]
+}
